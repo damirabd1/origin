@@ -1,0 +1,11 @@
+
+
+
+Private Sub CommandButton1_Click()
+
+a = TextBox1
+b = TextBox2
+TextBox3 = Str(Sqr(a ^ 2 + b ^ 2))
+
+End Sub
+
